@@ -1,6 +1,6 @@
 ## ajaxTypeAhead
-1) Ajax and Api.
-2) one can find the popuation in state or city in USA.
+1) Ajax and API.
+2) one can find the popualtion in state or city in the USA.
 
 ## How To Open
 1) Fork The Repository:
